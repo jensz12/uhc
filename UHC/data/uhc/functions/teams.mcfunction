@@ -12,3 +12,4 @@ team modify hold5 color green
 team modify hold6 color gold
 scoreboard objectives add health health
 scoreboard objectives setdisplay list health 
+scoreboard objectives add death deathCount
