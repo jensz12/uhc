@@ -27,3 +27,7 @@ setblock -323 153 85 minecraft:air replace
 setblock -323 153 84 minecraft:air replace
 setblock -323 153 83 minecraft:air replace
 setblock -323 153 82 minecraft:air replace
+gamerule doDaylightCycle false
+gamerule doWeatherCycle false
+time set 6000
+weather clear
