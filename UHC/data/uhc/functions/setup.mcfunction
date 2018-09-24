@@ -31,3 +31,7 @@ team modify hold15 color black
 scoreboard objectives add health health
 scoreboard objectives setdisplay list health 
 scoreboard objectives add death deathCount
+gamerule doDaylightCycle false
+gamerule doWeatherCycle false
+time set 6000
+weather clear
