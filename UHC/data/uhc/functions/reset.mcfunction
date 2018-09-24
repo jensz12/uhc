@@ -1,6 +1,9 @@
-gamerule doDaylightCycle false
 tp @a -337 153 100
 gamemode adventure @a[team=,gamemode=survival]
+gamerule doDaylightCycle false
+gamerule doWeatherCycle false
+time set 6000
+weather clear
 setblock -320 153 109 minecraft:redstone_block replace
 setblock -323 153 95 minecraft:red_concrete_powder replace
 setblock -323 154 95 minecraft:purple_concrete_powder replace
@@ -26,7 +29,3 @@ setblock -323 153 85 minecraft:air replace
 setblock -323 153 84 minecraft:air replace
 setblock -323 153 83 minecraft:air replace
 setblock -323 153 82 minecraft:air replace
-gamerule doDaylightCycle false
-gamerule doWeatherCycle false
-time set 6000
-weather clear
