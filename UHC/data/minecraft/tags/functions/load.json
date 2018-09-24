@@ -1,6 +1,6 @@
 {
     "values": [
         "uhc:reset",
-        "uhc:teams"
+        "uhc:startup"
     ]
 }
