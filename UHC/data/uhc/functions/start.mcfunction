@@ -10,3 +10,4 @@ gamerule naturalRegeneration false
 gamerule doDaylightCycle true
 spreadplayers -337 100 200 500 true @a[team=,gamemode=survival]
 setblock -320 153 109 minecraft:air replace
+scoreboard players reset @a death
