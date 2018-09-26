@@ -1,3 +1,4 @@
+# Skal rettes før test: Spreadplayers virker ikke.
 title @a title ["",{"text":"UHC","color":"dark_blue"}]
 title @a subtitle ["",{"text":"UHC er nu startet. Held og lykke!","color":"dark_purple"}]
 clear @a
