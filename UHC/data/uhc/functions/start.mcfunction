@@ -9,7 +9,7 @@ effect give @a minecraft:saturation 1 100
 effect give @a instant_health 1 100
 gamerule naturalRegeneration false
 gamerule doDaylightCycle true
-spreadplayers -337 100 200 500 true @a[team=,gamemode=survival]
+spreadplayers -337 100 200 500 true @a[gamemode=survival]
 setblock -320 153 109 minecraft:air replace
 scoreboard players reset @a death
 gamerule doWeatherCycle true
