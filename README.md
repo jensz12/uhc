@@ -6,3 +6,5 @@ Commands kan køres med /function uhc:
 Scoreboard og teams bliver automatisk sat op, når du loader et world
 <br>
 Se under Releases hvordan du bruger packen
+<br>
+Jeg hjælper ikke med at sætte packen op. Og alt er hardcodet til mine behov i pakken. Så en del arbejde er krævet.
