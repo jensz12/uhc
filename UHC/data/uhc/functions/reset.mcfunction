@@ -1,5 +1,5 @@
 tp @a -337 153 100
-gamemode adventure @a[team=,gamemode=survival]
+gamemode adventure @a[gamemode=survival]
 gamerule doDaylightCycle false
 gamerule doWeatherCycle false
 time set 6000
