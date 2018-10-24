@@ -52,20 +52,6 @@
         },
         {
           "type": "item",
-          "name": "minecraft:feather",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 5
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
           "name": "minecraft:book",
           "weight": 5,
           "functions": [

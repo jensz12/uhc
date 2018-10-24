@@ -36,20 +36,6 @@
         },
         {
           "type": "item",
-          "name": "minecraft:poisonous_potato",
-          "weight": 7,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 2,
-                "max": 6
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
           "name": "minecraft:carrot",
           "weight": 7,
           "functions": [
@@ -86,20 +72,6 @@
               "count": {
                 "min": 2,
                 "max": 8
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:rotten_flesh",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 5,
-                "max": 24
               }
             }
           ]
