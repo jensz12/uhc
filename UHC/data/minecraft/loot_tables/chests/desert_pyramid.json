@@ -92,40 +92,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "minecraft:rotten_flesh",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 3,
-                                "max": 7
-                            }
-                        }
-                    ],
-                    "weight": 25
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:saddle",
-                    "weight": 20
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:iron_horse_armor",
-                    "weight": 15
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:golden_horse_armor",
-                    "weight": 10
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:diamond_horse_armor",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
                     "name": "minecraft:book",
                     "weight": 20,
                     "functions": [
@@ -183,35 +149,7 @@
                 },
                 {
                     "type": "item",
-                    "name": "minecraft:rotten_flesh",
-                    "weight": 10,
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 8
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
                     "name": "minecraft:string",
-                    "weight": 10,
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 8
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:sand",
                     "weight": 10,
                     "functions": [
                         {

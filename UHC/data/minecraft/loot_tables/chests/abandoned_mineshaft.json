@@ -123,7 +123,12 @@
                         }
                     ],
                     "weight": 15
-                },
+                }
+            ]
+        },
+        {
+            "rolls": 3,
+            "entries": [
                 {
                     "type": "item",
                     "name": "minecraft:torch",
