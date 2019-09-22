@@ -1,5 +1,5 @@
 # uhc
-Datapack til Minecraft 1.13 UHC
+Datapack til Minecraft 1.13+ UHC
 <br>
 Scoreboard og teams bliver automatisk sat op, når du loader et world
 <br>
