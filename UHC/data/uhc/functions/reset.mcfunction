@@ -1,31 +1,31 @@
-tp @a -337 153 100
+tp @a -70 161 142
 gamemode adventure @a[gamemode=survival]
 gamerule doDaylightCycle false
 gamerule doWeatherCycle false
-time set 6000
+time set 6000t
 weather clear
-setblock -320 153 109 minecraft:redstone_block replace
-setblock -323 153 95 minecraft:red_concrete_powder replace
-setblock -323 154 95 minecraft:purple_concrete_powder replace
-setblock -323 155 95 minecraft:magenta_concrete_powder replace
-setblock -323 156 95 minecraft:blue_concrete_powder replace
-setblock -323 157 95 minecraft:cyan_concrete_powder replace
-setblock -323 158 95 minecraft:light_blue_concrete_powder replace
-setblock -323 159 95 minecraft:lime_concrete_powder replace
-setblock -323 160 95 minecraft:green_concrete_powder replace
-setblock -323 161 95 minecraft:yellow_concrete_powder replace
-setblock -323 162 95 minecraft:orange_concrete_powder replace
-setblock -323 163 95 minecraft:red_concrete_powder replace
-setblock -323 153 94 minecraft:redstone_block replace
-setblock -323 153 93 minecraft:air replace
-setblock -323 153 92 minecraft:air replace
-setblock -323 153 91 minecraft:air replace
-setblock -323 153 90 minecraft:air replace
-setblock -323 153 89 minecraft:air replace
-setblock -323 153 88 minecraft:air replace
-setblock -323 153 87 minecraft:air replace
-setblock -323 153 86 minecraft:air replace
-setblock -323 153 85 minecraft:air replace
-setblock -323 153 84 minecraft:air replace
-setblock -323 153 83 minecraft:air replace
-setblock -323 153 82 minecraft:air replace
+setblock -53 161 151 minecraft:redstone_block replace
+setblock -56 161 137 minecraft:red_concrete_powder replace
+setblock -56 162 137 minecraft:purple_concrete_powder replace
+setblock -56 163 137 minecraft:magenta_concrete_powder replace
+setblock -56 164 137 minecraft:blue_concrete_powder replace
+setblock -56 165 137 minecraft:cyan_concrete_powder replace
+setblock -56 166 137 minecraft:light_blue_concrete_powder replace
+setblock -56 167 137 minecraft:lime_concrete_powder replace
+setblock -56 168 137 minecraft:green_concrete_powder replace
+setblock -56 169 137 minecraft:yellow_concrete_powder replace
+setblock -56 170 137 minecraft:orange_concrete_powder replace
+setblock -56 171 137 minecraft:red_concrete_powder replace
+setblock -56 161 136 minecraft:redstone_block replace
+setblock -56 161 135 minecraft:air replace
+setblock -56 161 134 minecraft:air replace
+setblock -56 161 134 minecraft:air replace
+setblock -56 161 132 minecraft:air replace
+setblock -56 161 131 minecraft:air replace
+setblock -56 161 130 minecraft:air replace
+setblock -56 161 129 minecraft:air replace
+setblock -56 161 128 minecraft:air replace
+setblock -56 161 127 minecraft:air replace
+setblock -56 161 126 minecraft:air replace
+setblock -56 161 125 minecraft:air replace
+setblock -56 161 124 minecraft:air replace

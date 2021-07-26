@@ -1,14 +1,14 @@
-title @a title ["",{"text":"UHC","color":"dark_blue"}]
-title @a subtitle ["",{"text":"UHC er nu startet. Held og lykke!","color":"dark_purple"}]
+title @a title ["",{"text":"Pondus UHC","color":"aqua"}]
+title @a subtitle ["",{"text":"Pondus UHC er nu startet. Held og lykke!","color":"white"}]
 clear @a
 gamemode survival @a[gamemode=adventure]
 gamemode spectator @a[team=,gamemode=survival]
-time set 0
+time set 0t
 effect give @a minecraft:saturation 1 100
 effect give @a instant_health 1 100
 gamerule naturalRegeneration false
 gamerule doDaylightCycle true
-spreadplayers -337 100 200 500 true @a[gamemode=survival]
-setblock -320 153 109 minecraft:air replace
+spreadplayers -70 142 200 500 true @a[gamemode=survival]
+setblock -53 161 151 minecraft:air replace
 scoreboard players reset @a death
 gamerule doWeatherCycle true
