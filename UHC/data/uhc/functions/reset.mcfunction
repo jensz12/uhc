@@ -19,7 +19,7 @@ setblock -56 171 137 minecraft:red_concrete_powder replace
 setblock -56 161 136 minecraft:redstone_block replace
 setblock -56 161 135 minecraft:air replace
 setblock -56 161 134 minecraft:air replace
-setblock -56 161 134 minecraft:air replace
+setblock -56 161 133 minecraft:air replace
 setblock -56 161 132 minecraft:air replace
 setblock -56 161 131 minecraft:air replace
 setblock -56 161 130 minecraft:air replace

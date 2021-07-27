@@ -12,3 +12,4 @@ spreadplayers -70 142 200 500 true @a[gamemode=survival]
 setblock -53 161 151 minecraft:air replace
 scoreboard players reset @a death
 gamerule doWeatherCycle true
+gamerule doFireTick true
